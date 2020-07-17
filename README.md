@@ -1,0 +1,1 @@
+* Spring Cloud Config Repository for project spring-cloud-demo
