@@ -1,3 +1,4 @@
 user:
   name: test
   version: 1
+  stage: release
